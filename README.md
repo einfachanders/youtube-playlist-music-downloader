@@ -6,4 +6,4 @@
 ## Usage
 <p> To use the script, the pytube package as well as ffmpeg are required. The script was written on linux so it might need some adjustment to work under windows. Using the command line, the script can be executed like shown: </p>
 
-    python3 pytube-dl.yp -u <playlist-url>
+    python3 pytube-dl.py -u <playlist-url>
